@@ -1,0 +1,5 @@
+train: ./train/images
+val: ./val/images
+
+nc: 10
+names: ["Early Blight","Bacterial Spot","Late Blight","Mosaic Virus","Yello Leaf Curl Virus","Leaf Mold","Septorial Leaf Spot","Spider Mite","Healthy","Target Spot"]
